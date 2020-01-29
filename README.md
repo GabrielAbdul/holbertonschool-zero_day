@@ -43,4 +43,4 @@ Learn Vim commands
 ### 0x03-02: Collaboration be up to date
 - Understanding the process of ensuring team is up to date
  
- (master branch change)
+ (master branch changes)
